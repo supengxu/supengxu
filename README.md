@@ -34,10 +34,10 @@ I'm a developer interested in building useful software, exploring better enginee
 | --- | --- |
 | [![CodeAgent](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=CodeAgent&theme=buefy&hide_border=true)](https://github.com/supengxu/CodeAgent) | [![DAGLLM](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=DAGLLM&theme=buefy&hide_border=true)](https://github.com/supengxu/DAGLLM) |
 
-| Python / LLM | Frontend |
+| Python / LLM | Java backend |
 | --- | --- |
-| [![llm-learning](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=llm-learning&theme=buefy&hide_border=true)](https://github.com/supengxu/llm-learning) | [![easyIM-Vue](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=easyIM-Vue&theme=buefy&hide_border=true)](https://github.com/supengxu/easyIM-Vue) |
+| [![llm-learning](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=llm-learning&theme=buefy&hide_border=true)](https://github.com/supengxu/llm-learning) | [![microIM](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=microIM&theme=buefy&hide_border=true)](https://github.com/supengxu/microIM) |
 
-## New project space
-
-[super](https://github.com/supengxu/super) is a new personal project repository for experiments, notes, and small tools.
+| Frontend | New project space |
+| --- | --- |
+| [![easyIM-Vue](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=easyIM-Vue&theme=buefy&hide_border=true)](https://github.com/supengxu/easyIM-Vue) | [![super](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=super&theme=buefy&hide_border=true)](https://github.com/supengxu/super) |
