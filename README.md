@@ -6,17 +6,20 @@ I'm a developer interested in building useful software, exploring better enginee
 
 - GitHub: [supengxu](https://github.com/supengxu)
 - Email: [xspdebug@gmail.com](mailto:xspdebug@gmail.com)
-- Current focus: AI-assisted development, backend engineering, automation, and practical tools
+- Current focus: AI-assisted development, C#/.NET, Java backend engineering, LLM applications, automation, and practical tools
 - I like projects that are simple on the surface and solid underneath
 
 ## Tech interests
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub stats
@@ -25,6 +28,16 @@ I'm a developer interested in building useful software, exploring better enginee
 | --- | --- |
 | ![supengxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=supengxu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supengxu&layout=compact&theme=buefy&hide_border=true) |
 
-## Featured project
+## Featured projects
 
-[![super](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=super&theme=buefy&hide_border=true)](https://github.com/supengxu/super)
+| C# / Agent | C# / LLM |
+| --- | --- |
+| [![CodeAgent](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=CodeAgent&theme=buefy&hide_border=true)](https://github.com/supengxu/CodeAgent) | [![DAGLLM](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=DAGLLM&theme=buefy&hide_border=true)](https://github.com/supengxu/DAGLLM) |
+
+| Python / LLM | Frontend |
+| --- | --- |
+| [![llm-learning](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=llm-learning&theme=buefy&hide_border=true)](https://github.com/supengxu/llm-learning) | [![easyIM-Vue](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=easyIM-Vue&theme=buefy&hide_border=true)](https://github.com/supengxu/easyIM-Vue) |
+
+## New project space
+
+[super](https://github.com/supengxu/super) is a new personal project repository for experiments, notes, and small tools.
