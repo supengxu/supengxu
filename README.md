@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm supengxu
 
-<!--
-**supengxu/supengxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building useful software, exploring better engineering workflows, and turning ideas into working projects.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [supengxu](https://github.com/supengxu)
+- Email: [xspdebug@gmail.com](mailto:xspdebug@gmail.com)
+- Current focus: AI-assisted development, backend engineering, automation, and practical tools
+- I like projects that are simple on the surface and solid underneath
+
+## Tech interests
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+
+## GitHub stats
+
+| Stats | Languages |
+| --- | --- |
+| ![supengxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=supengxu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supengxu&layout=compact&theme=buefy&hide_border=true) |
+
+## Featured project
+
+[![super](https://github-readme-stats.vercel.app/api/pin/?username=supengxu&repo=super&theme=buefy&hide_border=true)](https://github.com/supengxu/super)
